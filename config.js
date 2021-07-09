@@ -7,13 +7,13 @@ const CONFIG = {
     btnIntro: 'Ỏ',
     title: 'YÊU ANH NHAA HONG CÁU MẮNG LẠNH NHẠT Ý 😙',
     desc: 'YÊU ANH HUMMM NÈEE :33',
-    btnYes: 'Ỏ YÊUU ANH <3',
-    btnNo: 'ĐÉO',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Nói cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'NGOAN NHAAA SAU ANH MUA ĐỒ CHO',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    btnYes: 'ĐÉO',
+    btnNo: 'Ỏ YÊUU ANH <3',
+    question:'BẠN HƯ VLER BẠN SẼ BỊ PHẠT',
+    btnReply: 'CHỈ ĐƯỢC CHỌN 1 HÌNH PHẠT',
+    reply: 'SENDDDD NUDEEEE NGAY Ạ :((',
+    mess: 'OK NT VÀ ĐƯA TAO ẢNH NUDEE ',
+    messDesc: 'NGOAN T CHO ẢNH NUDE CỦA M LÊN STORY :))',
+    btnAccept: 'HÍC BIẾT ÒI :((',
+    messLink: 'https://www.facebook.com/phat.lyxuan.5' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
